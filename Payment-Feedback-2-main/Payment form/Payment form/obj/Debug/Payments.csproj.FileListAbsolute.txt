@@ -1,0 +1,4 @@
+C:\Users\hhk\Desktop\Payment-Feedback-2-main\Payment form\Payment form\obj\Debug\Payment_form.FeedbackForm.resources
+C:\Users\hhk\Desktop\Payment-Feedback-2-main\Payment form\Payment form\obj\Debug\Payment_form.PaymentForm.resources
+C:\Users\hhk\Desktop\Payment-Feedback-2-main\Payment form\Payment form\obj\Debug\Payments.csproj.GenerateResource.cache
+C:\Users\hhk\Desktop\Payment-Feedback-2-main\Payment form\Payment form\obj\Debug\Payments.csprojAssemblyReference.cache
